@@ -61,3 +61,14 @@ Specific optimizations were implemented to support high-load scenarios:
 - Reduction of expensive operations
 - Efficient transaction management
 - Read/write performance considerations
+
+---
+
+## 👥 Authors
+
+This project was developed as part of the **Database Systems I** course  
+at **Universidad El Bosque**.
+
+- Sebastián Ernesto Carroz Añez  
+- Andrés Camilo Guerrero Mateus
+- Jorge Orlando Jaramillo Nieves
